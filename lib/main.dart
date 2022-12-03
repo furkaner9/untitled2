@@ -10,7 +10,7 @@ void main() {
       ),
       body:
       Center(
-        child: Image.asset('image/harry_potter.jpg'),
+        child: Image.asset('images/harry_potter.jpg'),
       ),
     ),
   ));
